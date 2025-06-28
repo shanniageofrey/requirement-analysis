@@ -89,7 +89,7 @@ Use case diagrams show how different users (actors) interact with the system to 
    * Update Booking Status (Admin)
    * Generate Reports (Admin)
 
-![Booking system use case Diagram](https://drive.google.com/file/d/13_RbXmBCIoQvlgJny9jXInSbnEsxoRFp/view?usp=drive_link)
+![Booking system use case Diagram](.alx-booking-uc.png)
 
 ___
 

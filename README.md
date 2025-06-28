@@ -66,6 +66,37 @@ Non-functional Requirements 🛡️
     * Reliability: The system should have an uptime of 99.9% and recover quickly from any failures.
 ___
 
+## Use Case Diagrams.
+Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
+
+### Benefits of Use Case Diagrams:
+   * Provide a clear visual representation of system functionalities.
+   * Help in identifying and organizing system requirements.
+   * Facilitate communication among stakeholders and the development team.
+
+### Use cases
+👥 Actors
+   * Customer – Books services and manages bookings.
+   * Admin – Manages users, services, and bookings.
+🎯 Use Cases
+   * Register / Log in (Customer, Admin)
+   * Search Property (Customer)
+   * View Property Details (Customer)
+   * Book Property (Customer)
+   * Cancel Booking (Customer)
+   * Manage Property (Admin)
+   * View All Bookings (Admin)
+   * Update Booking Status (Admin)
+   * Generate Reports (Admin)
+
+![Booking system use case Diagram]([alx-booking-uc.png](https://drive.google.com/file/d/13_RbXmBCIoQvlgJny9jXInSbnEsxoRFp/view?usp=drive_link))
+
+___
+
+
+
+
+
 
 
 

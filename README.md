@@ -90,8 +90,21 @@ Use case diagrams show how different users (actors) interact with the system to 
    * Generate Reports (Admin)
 
 ![Booking System Use Case Diagram](./alx-booking-uc.png)
-
 ___
+
+## Acceptance Criteria.
+**Importance of Acceptance Criteria in Requirement Analysis.**
+   * Ensure all parties have a clear understanding of feature requirements.
+   * Provide a basis for testing and validation.
+   * Help in maintaining quality and meeting user expectations.
+
+* Example of acceptance criteria for a feature like the Checkout feature in the booking management system.
+   * The user should be able to check out and pay.
+   * Duplicated payments should be prevented.
+   * Booking status should be updated after payment.
+   * The user should be able to leave a review for the property.
+___
+
 
 
 
